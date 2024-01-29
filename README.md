@@ -1,0 +1,1 @@
+## This the root Folder for the whole POS comprising of several microservices
