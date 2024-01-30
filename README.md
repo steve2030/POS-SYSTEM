@@ -1,4 +1,4 @@
-# This the root Folder for the whole POS comprising of several microservices
+# POS System Built on microservices Architecture.
 ## Overview
 
 This repository contains the source code and configuration files for a microservices project. The project is designed to showcase the use of various technologies to build a scalable and resilient microservices architecture.
